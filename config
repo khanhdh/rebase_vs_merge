@@ -1,29 +1,10 @@
 This is first commit on master
 This is second commit on master
-<<<<<<< f83135327287e1694fafd98b953a9350df7809e6
-<<<<<<< 67306d4e0f97938fb60ed88b86a284334d88851d
-<<<<<<< 14f40e9925fdb20e63a96645e11215a0fe192177
 This is third commit on master
 This is 4th commit on master
 This is 5th commit on master
 =======
 
 This is first commit on develop
-<<<<<<< 8032322d08d3e263d681d90adca70c58ab553972
->>>>>>> this is first comment on develop
-=======
 This is second commit on develop
->>>>>>> 2nd commit on develop
-=======
-<<<<<<< 1c06c489e658295a9484e253e3bba2a3f9fe7d79
-=======
->>>>>>> 2nd commit on develop
-This is third commit on master
-
-This is first commit on develop
-<<<<<<< f83135327287e1694fafd98b953a9350df7809e6
->>>>>>> this is first comment on develop
->>>>>>> this is first comment on develop
-=======
-This is second commit on develop
->>>>>>> 2nd commit on develop
+This is 3th commit on develop
