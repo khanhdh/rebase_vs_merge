@@ -1,5 +1,6 @@
 This is first commit on master
 This is second commit on master
+<<<<<<< 67306d4e0f97938fb60ed88b86a284334d88851d
 <<<<<<< 14f40e9925fdb20e63a96645e11215a0fe192177
 This is third commit on master
 This is 4th commit on master
@@ -12,3 +13,11 @@ This is first commit on develop
 =======
 This is second commit on develop
 >>>>>>> 2nd commit on develop
+=======
+<<<<<<< 1c06c489e658295a9484e253e3bba2a3f9fe7d79
+This is third commit on master
+=======
+
+This is first commit on develop
+>>>>>>> this is first comment on develop
+>>>>>>> this is first comment on develop
