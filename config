@@ -7,4 +7,8 @@ This is 5th commit on master
 =======
 
 This is first commit on develop
+<<<<<<< 8032322d08d3e263d681d90adca70c58ab553972
 >>>>>>> this is first comment on develop
+=======
+This is second commit on develop
+>>>>>>> 2nd commit on develop
