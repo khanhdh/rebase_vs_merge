@@ -13,9 +13,14 @@ This is second commit on develop
 This is 3th commit on develop
 This is 4th commit on develop
 This is 5th commit on develop
+<<<<<<< a60924af2ea38285e5542ce29aeebeca5a0bce34
 <<<<<<< 591f9baddf66facb55a4af06ce879566fe5ed063
 This is 6th commit on develop
 This is 7th commit on develop
 =======
 This is 6th commit on develop
 >>>>>>> 6th commit on
+=======
+This is 6th commit on develop
+This is 7th commit on develop
+>>>>>>> 7th commit on develop
