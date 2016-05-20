@@ -17,6 +17,7 @@ This is 5th commit on develop
 <<<<<<< 591f9baddf66facb55a4af06ce879566fe5ed063
 This is 6th commit on develop
 This is 7th commit on develop
+<<<<<<< b2ba5fa84208974e1b603bf7c70bd8ad337ec797
 =======
 This is 6th commit on develop
 >>>>>>> 6th commit on
@@ -24,3 +25,6 @@ This is 6th commit on develop
 This is 6th commit on develop
 This is 7th commit on develop
 >>>>>>> 7th commit on develop
+=======
+This is 8th commit on develop
+>>>>>>> 8th on develop
